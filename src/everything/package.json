@@ -30,7 +30,7 @@
     "test": "vitest run --coverage"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@modelcontextprotocol/sdk": "^1.31.0",
     "cors": "^2.8.5",
     "express": "^5.2.1",
     "jszip": "^3.10.1",
